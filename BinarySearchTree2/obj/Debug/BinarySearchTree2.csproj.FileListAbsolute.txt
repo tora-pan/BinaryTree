@@ -1,0 +1,6 @@
+/Users/travispandos/projects/BinarySearchTree2/BinarySearchTree2/obj/Debug/BinarySearchTree2.csproj.AssemblyReference.cache
+/Users/travispandos/projects/BinarySearchTree2/BinarySearchTree2/obj/Debug/BinarySearchTree2.csproj.CoreCompileInputs.cache
+/Users/travispandos/projects/BinarySearchTree2/BinarySearchTree2/bin/Debug/BinarySearchTree2.exe
+/Users/travispandos/projects/BinarySearchTree2/BinarySearchTree2/bin/Debug/BinarySearchTree2.pdb
+/Users/travispandos/projects/BinarySearchTree2/BinarySearchTree2/obj/Debug/BinarySearchTree2.exe
+/Users/travispandos/projects/BinarySearchTree2/BinarySearchTree2/obj/Debug/BinarySearchTree2.pdb
